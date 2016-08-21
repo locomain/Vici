@@ -1,0 +1,150 @@
+<resources>
+
+    <string name="app_name" translatable="false">Vinci</string>
+    <string name="author_name" translatable="false" >DreamInCode</string>
+    <string name="icon_author_name" translatable="false">Kevin Aguilar</string>
+
+
+    <!-- Pages -->
+    <string name="page_settings">Settings</string>
+
+    <string name="page_favorites">Favorites</string>
+    <string name="page_albums">Albums</string>
+    <string name="page_moments">Moments</string>
+    <string name="page_recents">Recents</string>
+    <string name="page_vault">Vault</string>
+
+    <!-- Status -->
+    <string name="sorry">Sorry</string>
+    <string name="error">Error!</string>
+    <string name="read_error">Error reading image!</string>
+    <string name="permission">Permission needed</string>
+
+    <!-- No Permissions -->
+    <string name="no_read">This app needs storage permission to load the images</string>
+
+    <!-- Media -->
+    <string name="image">Image</string>
+    <string name="folder">Folder</string>
+    <string name="video">Video</string>
+
+    <string name="tags">Tags</string>
+    <string name="images">Images</string>
+    <string name="albums">Albums</string>
+
+    <!-- Actions -->
+    <string name="action_password">Please enter password</string>
+    <string name="action_create_password">Please create a password</string>
+    <string name="action_menu">Menu</string>
+    <string name="action_add_tag">Add tag</string>
+    <string name="action_reset">Reset value</string>
+    <string name="action_toggle_ui">Toggle View</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_info">Info</string>
+    <string name="action_vault">Add to vault</string>
+    <string name="action_manage_tags">Manage tags</string>
+    <string name="action_vault_remove">Remove from vault</string>
+    <string name="action_hide">Exclude</string>
+    <string name="action_copy_to">Copy To</string>
+    <string name="action_move_to">Move To</string>
+    <string name="action_set">Set as</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_print">Print</string>
+    <string name="action_sort">Sort by</string>
+    <string name="action_wallpaper">Set as wallpaper</string>
+    <string name="action_return">Return</string>
+    <string name="action_toggle_selection">Toggle selection</string>
+    <string name="action_pick_color">Pick a color</string>
+    <string name="action_lock">Lock scrolling</string>
+
+    <!-- Sort actions -->
+    <string name="action_sort_date_asc">Date ascending</string>
+    <string name="action_sort_date_desc">Date descending</string>
+    <string name="action_sort_name_asc">Name ascending</string>
+    <string name="action_sort_name_desc">Name descending</string>
+
+    <!-- Action questions -->
+    <string name="sign_off">Sign off</string>
+    <string name="action_edit_with">Edit with:</string>
+    <string name="delete_sure">Do you want to delete this image?</string>
+    <string name="delete_sure_more">Do you want to delete this files?</string>
+
+    <!-- Action tag -->
+    <string name="action_new_tag">Please enter new tag name</string>
+    <string name="action_new_tag_made">Tag created!</string>
+    <string name="action_new_tag_zero">Please enter a valid tag name</string>
+
+    <!-- Action results -->
+    <string name="image_updated_success">Image successfully updated</string>
+    <string name="image_updated_failed">Image failed to updated</string>
+    <string name="action_wallpaper_succes">Image successfully set as wallpaper</string>
+    <string name="no_images_found">No images found</string>
+    <string name="wrong_password">Wrong password!</string>
+    <string name="process_already_running">There is already a process running.</string>
+    <string name="nothing_selected">Nothing selected</string>
+
+    <string name="password_change_success">Successfully set password</string>
+    <string name="password_change_failed">Passwords are not matching</string>
+    <string name="password_length_failed">Password needs a minimum length of 4 characters</string>
+    <string name="password_empty_failed">Password can\'t be empty</string>
+    <string name="logged_off">Successfully signed off</string>
+
+    <!-- Action anwser -->
+    <string name="oke">Oke</string>
+    <string name="cancel">Cancel</string>
+    <string name="current_selected_sort">You already have this sort order selected</string>
+
+    <!-- Preferences -->
+    <string name="dark_theme">Dark base theme</string>
+    <string name="primary_color">Primary Color</string>
+    <string name="accent_color">Accent Color</string>
+
+    <string name="primary_color_summary">Pick a primary theme color</string>
+    <string name="accent_color_summary">Pick a accent theme color</string>
+
+    <string name="optimize_library">Optimize library</string>
+    <string name="optimize_library_summary">Improves color searching and overall experience</string>
+    <string name="optimize_library_before_load">Depending on the size of your image gallery this can take a couple of minutes.\nYou can alway\'s stop the process and finish it later.</string>
+    <string name="done_optimize_library">Done optimizing library</string>
+
+    <string name="action_change_password">Change vault password</string>
+
+    <string name="action_clear_hidden">Clear excluded list</string>
+    <string name="action_clear_hidden_summary">Items in the excluded list wil be re-included in the photo library</string>
+
+    <!-- preference cats-->
+    <string name="setting_appearance">Appearance</string>
+    <string name="setting_other">Other</string>
+    <string name="setting_personal">Account</string>
+    <string name="about">About</string>
+
+    <!-- Other -->
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="author">Author</string>
+    <string name="icon">Icon</string>
+
+
+    <!-- Tags -->
+    <string name="tag_me">Me</string>
+    <string name="tag_friends">Friends</string>
+    <string name="tag_family">Family</string>
+    <string name="tag_sport">Sport</string>
+    <string name="tag_pets">Pets</string>
+    <string name="tag_holidays">Holidays</string>
+
+    <!-- KEYS -->
+    <string name="key_about">about</string>
+    <string name="key_sign_off">soff</string>
+    <string name="key_change_password">chngpsword</string>
+    <string name="key_base_color">baseColor</string>
+    <string name="key_accent_color">accentColor</string>
+    <string name="key_dark_theme">darkTheme</string>
+    <string name="key_library_optimize">libOptim</string>
+    <string name="key_clear_hidden">clearHiddn</string>
+</resources>
