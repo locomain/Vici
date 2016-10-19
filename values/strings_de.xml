@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name" translatable="false">Vinci</string>
+    <string name="app_name" translatable="false">Vici</string>
     <string name="author_name" translatable="false" >DreamInCode</string>
     <string name="icon_author_name" translatable="false">Kevin Aguilar</string>
 
@@ -119,7 +119,7 @@
     <string name="setting_appearance">Aussehen</string>
     <string name="setting_other">Sonstiges</string>
     <string name="setting_personal">Konto</string>
-    <string name="about">Über Vinci</string>
+    <string name="about">Über Vici</string>
 
     <!-- Other -->
     <string name="name">Name</string>
